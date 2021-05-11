@@ -64,7 +64,7 @@ to my family
 
 
   
-
+<summary>:zap: GitHub Stats</summary>
   <img align="left" alt="Darshan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Darshan-upadhyay1110&show_icons=true&hide_border=true" />
 
 

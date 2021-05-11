@@ -53,8 +53,6 @@ to my family
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="DS" width="26px" src="https://image.flaticon.com/icons/png/128/2857/2857303.png" />]
 [<img align="left" alt="Algorithm" width="26px" src="https://image.flaticon.com/icons/png/128/2172/2172824.png" />]
-<br />
-<br />
 
 
 
@@ -65,7 +63,7 @@ to my family
 
 
 
-  <summary>:zap: GitHub Stats</summary>
+  
 
   <img align="left" alt="Darshan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Darshan-upadhyay1110&show_icons=true&hide_border=true" />
 
@@ -75,5 +73,4 @@ to my family
 
 
 
-[instagram]: https://www.instagram.com/_darshan_1110/
-[linkedin]: https://www.linkedin.com/in/darshan-upadhyay-9491481a3/
+

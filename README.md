@@ -34,7 +34,7 @@ to my family
 ### Connect with me:
 
 
-[<img align="left" alt="Darshan_Upadhyay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/darshan-upadhyay-9491481a3/]
+[<img align="left" alt="Darshan_Upadhyay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/darshan-upadhyay-9491481a3/)
 [<img align="left" alt="Darshan_Upadhyay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />

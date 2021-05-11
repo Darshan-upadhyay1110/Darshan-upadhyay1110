@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Darshan - aka [Noob] 👋
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Darshan-upadhyay1110" alt="Darshan Upadhyay" /> 
+</p>
+
 
 
 

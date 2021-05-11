@@ -59,7 +59,8 @@ to my family
 [<img align="left" alt="Algorithm" width="26px" src="https://image.flaticon.com/icons/png/128/2172/2172824.png" />]
 
 
-
+<br/>
+<br/>
 
 
 
@@ -71,10 +72,11 @@ to my family
 <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="Darshan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Darshan-upadhyay1110&show_icons=true&hide_border=true" />
 
+<br/>
+<br/>
 
 
 
-
-
+<h2 align="center">I ❤️ Memes :wink:</h2>
 
 

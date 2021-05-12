@@ -42,10 +42,8 @@ to my family
 [<img align="left" alt="Darshan_Upadhyay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_darshan_1110/)
 
 <br />
-
-## Skills and Used Languages
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Darshan-upadhyay1110&show_icons=true&locale=en&layout=compact" alt="DarshanUpadhyay" /></p>
+<summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="Darshan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Darshan-upadhyay1110&show_icons=true&hide_border=true" />
 
 <br/>
 <br/>
@@ -55,8 +53,10 @@ to my family
 
 
   
-<summary>:zap: GitHub Stats</summary>
-  <img align="center" alt="Darshan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Darshan-upadhyay1110&show_icons=true&hide_border=true" />
+## Skills and Used Languages
+<p>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Darshan-upadhyay1110&show_icons=true&locale=en&layout=compact" alt="DarshanUpadhyay" /></p>
+
 
 <br/>
 <br/>

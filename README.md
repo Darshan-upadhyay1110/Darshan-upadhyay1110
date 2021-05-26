@@ -1,19 +1,6 @@
 
 
-<!--
-**Darshan-upadhyay1110/Darshan-upadhyay1110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ### Hi there, I'm Darshan - aka [Noob] 👋
 
@@ -28,6 +15,9 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning everything like nodejs,express,reactJS,MongoDB 🤣
+-  I'm a Computer Engineering Student from India 
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💻 I code usually in **.java**, **.js**, **.sql**,**.cpp**
 - 👯 I’m looking to collaborate with other Devlopers for cool project stuff
 - 🥅 Life Goals: Contribute more to Open Source projects , Give all happiness
 to my family
@@ -36,49 +26,40 @@ to my family
 
 
 ### Connect with me:
-
-
-[<img align="left" alt="Darshan_Upadhyay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/darshan-upadhyay-9491481a3/)
-[<img align="left" alt="Darshan_Upadhyay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_darshan_1110/)
-
+[<img align="left" alt="krunal-ctrl | Twitter" src="https://img.shields.io/badge/-twitter-black?style=for-the-badge&logo=twitter" />](https://twitter.com/Darshan41847783)
+[<img align="left" alt="krunal-ctrl | LinkedIn" src="https://img.shields.io/badge/-linkedin-black?style=for-the-badge&logo=linkedin" />](https://www.linkedin.com/in/darshan-upadhyay-9491481a3/)
+[<img align="left" alt="krunal-ctrl | Instagram" src="https://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=instagram" />](https://www.instagram.com/_darshan_1110/)
+[<img align="left" alt="krunal-ctrl | Email" src="https://img.shields.io/badge/-mail-black?style=for-the-badge&logo=gmail" />](mailto:1110darshan@gmail.com)
 <br />
-<summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Darshan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Darshan-upadhyay1110&show_icons=true&hide_border=true" />
-
 <br/>
 <br/>
 
-
-
-
-
-  
-## Skills and Used Languages
-<p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Darshan-upadhyay1110&show_icons=true&locale=en&layout=compact" alt="DarshanUpadhyay" /></p>
-
-
-<br/>
-<br/>
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]()
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]()
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]()
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]()
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
-[<img align="left" alt="DS" width="26px" src="https://image.flaticon.com/icons/png/128/2857/2857303.png" />]()
-[<img align="left" alt="Algorithm" width="26px" src="https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-256.png" />]()
+![Java](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
+![JavaScript](https://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript)
+![NodeJs](https://img.shields.io/badge/-nodejs-black?style=for-the-badge&logo=nodejs)
+![Html/css](https://img.shields.io/badge/-Html/css-black?style=for-the-badge&logo=Html/css)
+![C](https://img.shields.io/badge/-c++-black?style=for-the-badge&logo=c++)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
 
 
-<br/>
-<br/>
+
+![Darshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshan-upadhyay1110&show_icons=true&hide_border=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-upadhyay1110&layout=compact&hide_border=false&theme=dracula)
+<br>
+
+
+
+
+![](https://komarev.com/ghpvc/?username=darshan-upadhyay1110)
+
+
 
 
 <h2 align="center">I ❤️ Memes :wink:</h2>
+

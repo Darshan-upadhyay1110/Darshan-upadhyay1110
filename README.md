@@ -14,7 +14,7 @@
 ## I'm a Proud Indian , Tech-Lerner, Developer, and programmer!!
 
 
-- 🌱 I’m currently learning everything like nodejs,express,reactJS,MongoDB 🤣
+- 🌱 I’m currently learning everything like nodejs,express,reactJS,MongoDB �
 -  I'm a Computer Engineering Student from India 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I code usually in **.java**, **.js**, **.sql**,**.cpp**

@@ -19,10 +19,7 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I code usually in **.java**, **.js**, **.sql**,**.cpp**
 - 👯 I’m looking to collaborate with other Devlopers for cool project stuff
-- 🥅 Life Goals: Contribute more to Open Source projects , Give all happiness
-to my family
-- ⚡ Fun fact: I love to sing and play sports any kind
-
+- 🥅 Life Goals: Contribute more to Open Source projects 
 
 
 ### Connect with me:

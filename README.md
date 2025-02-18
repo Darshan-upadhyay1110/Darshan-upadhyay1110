@@ -23,10 +23,10 @@
 
 
 ### Connect with me:
-[<img align="left" alt="krunal-ctrl | Twitter" src="https://img.shields.io/badge/-twitter-black?style=for-the-badge&logo=twitter" />](https://twitter.com/Darshan41847783)
-[<img align="left" alt="krunal-ctrl | LinkedIn" src="https://img.shields.io/badge/-linkedin-black?style=for-the-badge&logo=linkedin" />](https://www.linkedin.com/in/darshan-upadhyay-9491481a3/)
-[<img align="left" alt="krunal-ctrl | Instagram" src="https://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=instagram" />](https://www.instagram.com/_darshan_1110/)
-[<img align="left" alt="krunal-ctrl | Email" src="https://img.shields.io/badge/-mail-black?style=for-the-badge&logo=gmail" />](mailto:1110darshan@gmail.com)
+[<img align="left" alt="darshan | Twitter" src="https://img.shields.io/badge/-twitter-black?style=for-the-badge&logo=twitter" />](https://twitter.com/Darshan41847783)
+[<img align="left" alt="darshan | LinkedIn" src="https://img.shields.io/badge/-linkedin-black?style=for-the-badge&logo=linkedin" />](https://www.linkedin.com/in/darshan-upadhyay-9491481a3/)
+[<img align="left" alt="darshan | Instagram" src="https://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=instagram" />](https://www.instagram.com/_darshan_1110/)
+[<img align="left" alt="darshan | Email" src="https://img.shields.io/badge/-mail-black?style=for-the-badge&logo=gmail" />](mailto:1110darshan@gmail.com)
 <br />
 <br/>
 <br/>

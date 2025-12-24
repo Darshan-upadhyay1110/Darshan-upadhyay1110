@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Darshan Upadhyay
+# 👋 Hi, I’m Darshan Upadhyay aka Noob :)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=darshan-upadhyay1110&style=flat-square" alt="profile views"/>

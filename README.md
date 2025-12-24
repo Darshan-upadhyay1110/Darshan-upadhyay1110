@@ -1,62 +1,118 @@
-
-
-
-
-### Hi there, I'm Darshan - aka [Noob] 👋
+# 👋 Hi, I’m Darshan Upadhyay
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Darshan-upadhyay1110" alt="Darshan Upadhyay" /> 
+  <img src="https://komarev.com/ghpvc/?username=darshan-upadhyay1110&style=flat-square" alt="profile views"/>
 </p>
 
+<p align="center">
+  Open-source contributor • Software developer • Systems & web enthusiast  
+  <br/>
+  🇮🇳 Based in India
+</p>
 
+---
 
+## 🧭 About Me
 
-## I'm a Proud Indian , Tech-Lerner, Developer, and programmer!!
+I’m a software developer with a strong focus on **open-source collaboration**, **web technologies**, and **developer tooling**.
 
+I actively contribute to projects in the **Collabora / LibreOffice / Nextcloud ecosystem**, where code quality, maintainability, and thoughtful reviews matter more than quick wins.
 
-- 🌱 I’m currently learning everything like nodejs,express,reactJS,MongoDB �
--  I'm a Computer Engineering Student from India 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I code usually in **.java**, **.js**, **.sql**,**.cpp**
-- 👯 I’m looking to collaborate with other Devlopers for cool project stuff
-- 🥅 Life Goals: Contribute more to Open Source projects 
+- 💻 Computer Engineering background  
+- 🌱 Continuously learning modern backend and web technologies  
+- 🤝 Comfortable working in distributed, community-driven teams  
+- 🧩 Interested in OSS governance, tooling, and infrastructure  
+- 🎯 Goal: long-term, meaningful open-source contributions  
 
+---
 
-### Connect with me:
-[<img align="left" alt="darshan | Twitter" src="https://img.shields.io/badge/-twitter-black?style=for-the-badge&logo=twitter" />](https://twitter.com/Darshan41847783)
-[<img align="left" alt="darshan | LinkedIn" src="https://img.shields.io/badge/-linkedin-black?style=for-the-badge&logo=linkedin" />](https://www.linkedin.com/in/darshan-upadhyay-9491481a3/)
-[<img align="left" alt="darshan | Instagram" src="https://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=instagram" />](https://www.instagram.com/_darshan_1110/)
-[<img align="left" alt="darshan | Email" src="https://img.shields.io/badge/-mail-black?style=for-the-badge&logo=gmail" />](mailto:1110darshan@gmail.com)
-<br />
-<br/>
-<br/>
+## 🛠️ Technical Skills
 
+### Languages
+- Java  
+- JavaScript  
+- Python  
+- C / C++  
+- SQL  
 
-### Languages and Tools:
+### Tools & Technologies
+- Node.js, Express  
+- MongoDB, MySQL  
+- Git & GitHub  
+- HTML, CSS  
+- Linux-based development environments  
 
-![Java](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
-![JavaScript](https://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript)
-![NodeJs](https://img.shields.io/badge/-nodejs-black?style=for-the-badge&logo=nodejs)
-![Html/css](https://img.shields.io/badge/-Html/css-black?style=for-the-badge&logo=Html/css)
-![C](https://img.shields.io/badge/-c++-black?style=for-the-badge&logo=c++)
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+<p>
+  <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java"/>
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</p>
 
+---
 
+## 🌍 Open Source Focus
 
-![Darshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshan-upadhyay1110&show_icons=true&hide_border=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-upadhyay1110&layout=compact&hide_border=false&theme=dracula)
-<br>
+I value:
+- readable and reviewable code  
+- clean commit history  
+- constructive technical discussions  
+- long-term maintenance over short-term hacks  
 
+Recent work and interests include:
+- Collabora Online  
+- LibreOffice-related tooling  
+- Nextcloud integrations  
+- Community support, reviews, and discussions  
 
+_(Yes, I read issue threads fully before replying.)_
 
+---
 
+## 📈 GitHub Activity
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darshan-upadhyay1110&show_icons=true&theme=dracula" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-upadhyay1110&layout=compact&theme=dracula" />
+</p>
 
+---
 
+## 🐍 Commit Activity Animation
 
-<h2 align="center">I ❤️ Memes :wink:</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/darshan-upadhyay1110/darshan-upadhyay1110/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 
+> The snake eats commits.  
+> Commits improve software.  
+> Everyone wins.
+
+---
+
+## 🤝 Connect
+
+<p>
+  <a href="https://twitter.com/Darshan41847783">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/darshan-upadhyay-9491481a3/">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:1110darshan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Building things that last.  
+  Breaking things only when necessary.
+</p>

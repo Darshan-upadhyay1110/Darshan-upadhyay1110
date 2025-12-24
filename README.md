@@ -75,11 +75,11 @@ _(Yes, I read issue threads fully before replying.)_
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshan-upadhyay1110&show_icons=true&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darshan-upadhyay1110&theme=dracula" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-upadhyay1110&layout=compact&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darshan-upadhyay1110&theme=dracula" />
 </p>
 
 ---
